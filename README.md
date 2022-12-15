@@ -1,7 +1,5 @@
 # Pig-Game 🎲
 
-=====
-
 > "Pig-Game is a 2-player dice-rolling game
 
 ### How to play 🎮
