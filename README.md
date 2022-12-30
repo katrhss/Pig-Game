@@ -9,5 +9,5 @@ Each player gets to click the "Roll Dice" buton as many times as he likes, each 
 <details>
 <summary>💡Inspiration and Details</summary>
 <br> 
-Inspiration for this project was the <a href="https://www.udemy.com/course/the-complete-javascript-course/"> Udemy Course </a> I was following in which I implemented the fundamentals of JavaScript I learned in previous sections of the course. The JavaScript file was mainly my work with some changes that were made to the code after following the course's intructions The .html and the .css files, along with the images for the dice, were given by the courses resources. 
+Inspiration for this project was the <a href="https://www.udemy.com/course/the-complete-javascript-course/" target="_blank"> Udemy Course </a> I was following in which I implemented the fundamentals of JavaScript I learned in previous sections of the course. The JavaScript file was mainly my work with some changes that were made to the code after following the course's intructions The .html and the .css files, along with the images for the dice, were given by the courses resources. 
 </details>
